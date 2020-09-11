@@ -11,6 +11,8 @@ class HelloWorld{
 		System.out.println("print test");
 		System.out.println("third edit");
 		System.out.println("look at this");
+		System.out.println("good night");
+		System.out.println("hello");
 
 	}
 }
