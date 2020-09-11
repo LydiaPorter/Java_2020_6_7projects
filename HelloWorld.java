@@ -8,11 +8,11 @@ class HelloWorld{
 		System.out.println("print this");
 		System.out.println("Stansbury");
 		System.out.println("LP");
-		System.out.println("print test");
 		System.out.println("third edit");
 		System.out.println("look at this");
 		System.out.println("good night");
 		System.out.println("hello");
+		System.out.println("it's getting late!");
 
 	}
 }
